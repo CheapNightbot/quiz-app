@@ -3,6 +3,7 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/quiz-app/',
   plugins: [react()],
   server: {
     hmr: true
