@@ -1,4 +1,4 @@
-<img src="src/assets/quiz.svg" alt="quiz icon" width="100" height="100" style="float: left;" />
+<img align="left" src="src/assets/quiz.svg" alt="quiz icon" width="100" height="100" style="float: left;" />
 <h1>Quiz App</h1>
 
 A fun and interactive quiz buit with React. Made for learning & fun, so might not be perfect. But me hope you enjoy it! ᓚ₍⑅^..^₎♡
